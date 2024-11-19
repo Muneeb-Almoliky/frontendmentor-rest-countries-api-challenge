@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/frontendmentor-rest-countries-api-challenge/static/css/main.7a7a51e8.css",
+    "main.js": "/frontendmentor-rest-countries-api-challenge/static/js/main.d3fb35d5.js",
+    "static/js/453.ed3810f9.chunk.js": "/frontendmentor-rest-countries-api-challenge/static/js/453.ed3810f9.chunk.js",
+    "static/media/moon-icon.svg": "/frontendmentor-rest-countries-api-challenge/static/media/moon-icon.7cfc19a4d1ea64d004cebd7e0907471d.svg",
+    "index.html": "/frontendmentor-rest-countries-api-challenge/index.html",
+    "static/media/arrow-left-back-icon.svg": "/frontendmentor-rest-countries-api-challenge/static/media/arrow-left-back-icon.d2e7b1ec783c16a2d9af.svg",
+    "static/media/arrow-left-back-icon-white.svg": "/frontendmentor-rest-countries-api-challenge/static/media/arrow-left-back-icon-white.3e3fb979e18dcf82fb9b.svg",
+    "static/media/arrow-down.svg": "/frontendmentor-rest-countries-api-challenge/static/media/arrow-down.1edfab86f389055c97b80ec14e52f85c.svg",
+    "static/media/arrow-down-white.svg": "/frontendmentor-rest-countries-api-challenge/static/media/arrow-down-white.de53c8e7d31296d07c4ee7152c9a8584.svg",
+    "static/media/icon-search-white.svg": "/frontendmentor-rest-countries-api-challenge/static/media/icon-search-white.0fd9372c3fe307666d89.svg",
+    "static/media/icon-search.svg": "/frontendmentor-rest-countries-api-challenge/static/media/icon-search.3c42b7082f32ba3ab78b.svg",
+    "main.7a7a51e8.css.map": "/frontendmentor-rest-countries-api-challenge/static/css/main.7a7a51e8.css.map",
+    "main.d3fb35d5.js.map": "/frontendmentor-rest-countries-api-challenge/static/js/main.d3fb35d5.js.map",
+    "453.ed3810f9.chunk.js.map": "/frontendmentor-rest-countries-api-challenge/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7a51e8.css",
+    "static/js/main.d3fb35d5.js"
+  ]
+}
