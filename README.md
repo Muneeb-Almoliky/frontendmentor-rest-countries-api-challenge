@@ -6,6 +6,7 @@ This is a solution to the REST Countries API with color theme switcher challenge
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshots](#screenshots)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -23,6 +24,22 @@ Filter countries by region
 Click on a country to see more detailed information on a separate page
 Click through to the border countries on the detail page
 Toggle the color scheme between light and dark mode (optional)
+
+
+### Screenshots
+
+<img src="./assets/countries.jpeg" alt="screenshot" style="width:50%; height:auto;">
+<img src="./assets/darkmode.jpeg" alt="screenshot" style="width:50%; height:auto;">
+<img src="./assets/countriesmobile.jpeg" alt="screenshot" style="width:160px; height:278px;">
+<img src="./assets/countriesmobiledark.jpeg" alt="screenshot" style="width:160px; height:273px;">
+<img src="./assets/search.jpeg" alt="screenshot" style="width:50%; height:auto;">
+<img src="./countriesfilter.jpeg" alt="screenshot" style="width:50%; height:auto;">
+<img src="./assets/country.jpeg" alt="screenshot" style="width:50%; height:auto;">
+<img src="./assets/countrydark.jpeg" alt="screenshot" style="width:50%; height:auto;">
+<img src="./assets/countrymobile.jpeg" alt="screenshot" style="width:160px; height:325px;">
+<img src="./assets/countrymobiledark.jpeg" alt="screenshot" style="width:160px; height:325px;">
+
+
 
 
 ## My process
